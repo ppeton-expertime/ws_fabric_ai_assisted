@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "Nouveau_notebook",
+    "description": "Notebook créé depuis l’extension Fabric"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "e4b79858-b83a-bd45-49ff-555f7b4eebf9"
+  }
+}
